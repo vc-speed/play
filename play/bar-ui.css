@@ -24,7 +24,7 @@
  min-width: 20em;
  max-width: 30em;
  /* take out overflow if you want an absolutely-positioned playlist dropdown. */
- border-radius: 2px;
+ border-radius: 5px;
  overflow: hidden;
  /* just for fun (animate normal / full-width) */
  transition: max-width 0.2s ease-in-out;
