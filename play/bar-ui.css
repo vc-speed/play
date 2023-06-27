@@ -999,3 +999,9 @@
  display: block;
  overflow: hidden;
 }
+
+.sm2-bar-ui .sm2-main-controls,
+.sm2-bar-ui .sm2-playlist-drawer {
+ background-color:#0f172a;
+ background-hover-color:#000000;
+}
