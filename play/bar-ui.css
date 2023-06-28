@@ -1005,5 +1005,5 @@
 
 .sm2-bar-ui .sm2-main-controls,
 .sm2-bar-ui .sm2-playlist-drawer {
- background-color: #0f172a08;
+ background-color: rgba(0,0,0,0.1);
 }
