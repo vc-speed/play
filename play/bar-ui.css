@@ -196,12 +196,12 @@
 
 .sm2-bar-ui,
 .sm2-bar-ui .bd a {
- color: #fff;
+  color: #0f172a;
 }
 
 .sm2-bar-ui.dark-text,
 .sm2-bar-ui.dark-text .bd a {
- color: #000;
+ color: #f8fafc;
 }
 
 .sm2-bar-ui.dark-text .sm2-inline-button {
